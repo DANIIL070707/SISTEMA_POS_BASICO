@@ -42,6 +42,7 @@ PROCEDIMIENTOS ALAMACENADOS DE LA BASE DE DATOS:
 ![image](https://github.com/DaniSanchez0707/SISTEMA_POS_BASICO/assets/116401622/5398efa0-e04b-4bba-96ba-a00f22a0d19b)
 
 DIAGRAMA BASE DE DATOS:
+
 ![image](https://github.com/DaniSanchez0707/SISTEMA_POS_BASICO/assets/116401622/1f9bd465-d81b-4ccf-a53b-8960ded33270)
 
 ![image](https://github.com/DaniSanchez0707/SISTEMA_POS_BASICO/assets/116401622/747740dd-5504-4203-91df-e66feb920fb3)
