@@ -2,7 +2,9 @@ SISTEMA DE VENTAS BASICO CON NODEJS EXPRESS & REACT
 
 Backend: API con NODEJS Express con la dependecias de Bcrypt para encriptar constraseñas,  JWT Token para almacenarlo en las cookies del navegador para mantener el inicio de sesión , nodemailer para correos.
 Frontend: React, material UI para las tablas, react toast notifications para notificaciones y bootstrap para estilos.
-Base de datos: SQL Server tablas relacionadas y el uso de procedimientos almacenados
+Base de datos: SQL Server tablas relacionadas y el uso de procedimientos almacenados.
+
+Las peticiones del frontend al backend, son mediante axios.
 
 LOGIN:
 ![image](https://github.com/DaniSanchez0707/SISTEMA_POS_BASICO/assets/116401622/9a959474-ea96-40e0-a6f2-64d224f05da1)
